@@ -85,7 +85,7 @@ pip install open3d numpy pandas pyproj matplotlib folium scipy
 1. **Run the Script**:
    - Execute the Python script to process the input files and generate the outputs:
      ```bash
-     python Map_coordinates.py
+     python Main.py
      ```
 
 2. **View Outputs**:
